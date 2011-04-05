@@ -1,0 +1,12 @@
+<qnx>
+  <initialWindow>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+  </initialWindow>
+  <publisher>Hornbill Interactive</publisher>
+  <category>core.games</category>
+  <icon>
+  	<image>GridBallIcon.png</image>
+  </icon>
+  <splashscreen>GridBallLoading.png</splashscreen>
+</qnx>
